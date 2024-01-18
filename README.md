@@ -1,2 +1,2 @@
 # py-games
-various games using python
+simple games using python
